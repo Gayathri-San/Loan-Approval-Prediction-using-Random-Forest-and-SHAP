@@ -35,9 +35,43 @@ enhances transparency for both banks and customers.
 
 ### **EXPLORATORY DATA ANALYSIS**
 
+<table>
+  <tr>
+    <td align="left">
+      <img width="500" height="300" alt="hist" src="https://github.com/user-attachments/assets/d2c0eb52-0b3c-4c3c-b927-f3fba2c9d95f" />
+    </td>
+    <td align="right">
+      <img width="500" height="300" alt="pie" src="https://github.com/user-attachments/assets/f7ca4fa1-3c07-437f-87e7-296046aed5ac" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="left">
+      <img width="500" height="300" alt="box" src="https://github.com/user-attachments/assets/9f4ca1a9-f104-41b4-b5d3-eb21e6ff4c04" />
+    </td>
+    <td align="right">
+      <img width="500" height="300" alt="bar" src="https://github.com/user-attachments/assets/69d784d7-d27c-470c-adb1-954d3df2673c" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="left">
+      <img width="500" height="300" alt="reg" src="https://github.com/user-attachments/assets/e2eb8113-2dd3-4602-914a-ec50fbdef5da" />
+    </td>
+    <td align="right">
+      <img width="500" height="300" alt="vio" src="https://github.com/user-attachments/assets/583cf437-a709-4c05-9e46-92a344e3fdee" />
+   </td>
+  </tr>
+</table>
+
+
 ### **CORRELATION MATRIX**
 <p align="center">
-  <img width="800" height="800" alt="corr" src="https://github.com/user-attachments/assets/897b788e-e843-4e8d-946f-ec5ce2142fd5" />
+  <img width="600" height="600" alt="corr" src="https://github.com/user-attachments/assets/897b788e-e843-4e8d-946f-ec5ce2142fd5" />
 </p>
 
 ### **EVALUATION MATRIX**
