@@ -32,6 +32,10 @@ enhances transparency for both banks and customers.
 - Divided dataset into training and testing sets with 80% training, 20% testing
 - The dataset was then prepared and structured properly before feeding it into the machine learning model.
 
+### **EXPLORATORY DATA ANALYSIS**
+
+### **CORRELATION MATRIX**
+
 ### **EVALUATION MATRIX**
 - The performance of the model was evaluated using multiple metrics to ensure reliability and accuracy.
 - Accuracy was used to measure the overall correctness of the model that it achieved
