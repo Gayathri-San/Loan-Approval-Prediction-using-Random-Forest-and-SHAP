@@ -9,7 +9,7 @@ enhances transparency for both banks and customers.
 
 ### **PROJECT WORKFLOW**
 <p align="left">
-<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/580c13ff-0b75-4b1d-bfe9-0ab48d90c3ae" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/580c13ff-0b75-4b1d-bfe9-0ab48d90c3ae" />
 
 ### **DATASET OVERVIEW**
 - The dataset used in this project is collected from Kaggle and contains information about loan applicants.
@@ -19,6 +19,7 @@ enhances transparency for both banks and customers.
 - The target variable in the dataset is loan status, where 1 indicates loan approval and 0 indicates rejection
 
 ### **TOOLS USED**
+- Python – Main programming language for data processing and modeling
 - Pandas – Data manipulation and analysis
 - NumPy – Numerical computations
 - Matplotlib & Seaborn – Data visualization
