@@ -9,7 +9,7 @@ enhances transparency for both banks and customers.
 
 ### **PROJECT WORKFLOW**
 <p align="left">
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/580c13ff-0b75-4b1d-bfe9-0ab48d90c3ae" />
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/580c13ff-0b75-4b1d-bfe9-0ab48d90c3ae" />
 
 ### **DATASET OVERVIEW**
 - The dataset used in this project is collected from Kaggle and contains information about loan applicants.
@@ -36,6 +36,9 @@ enhances transparency for both banks and customers.
 ### **EXPLORATORY DATA ANALYSIS**
 
 ### **CORRELATION MATRIX**
+<p align="center">
+  <img width="800" height="800" alt="corr" src="https://github.com/user-attachments/assets/897b788e-e843-4e8d-946f-ec5ce2142fd5" />
+</p>
 
 ### **EVALUATION MATRIX**
 - The performance of the model was evaluated using multiple metrics to ensure reliability and accuracy.
