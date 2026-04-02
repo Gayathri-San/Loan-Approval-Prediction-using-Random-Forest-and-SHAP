@@ -38,10 +38,10 @@ enhances transparency for both banks and customers.
 <table>
   <tr>
     <td align="left">
-      <img width="500" height="300" alt="hist" src="https://github.com/user-attachments/assets/d2c0eb52-0b3c-4c3c-b927-f3fba2c9d95f" />
+      <img width="500" height="300" alt="hist" src="https://github.com/user-attachments/assets/be86b2a8-a67c-4e8c-85ea-833e035e0cd4" />
     </td>
     <td align="right">
-      <img width="500" height="300" alt="pie" src="https://github.com/user-attachments/assets/f7ca4fa1-3c07-437f-87e7-296046aed5ac" />
+      <img width="500" height="300" alt="pie" src="https://github.com/user-attachments/assets/aca83e17-68c1-4e25-aa0f-be1b576f1adf" />
     </td>
   </tr>
 </table>
@@ -49,10 +49,10 @@ enhances transparency for both banks and customers.
 <table>
   <tr>
     <td align="left">
-      <img width="500" height="300" alt="box" src="https://github.com/user-attachments/assets/9f4ca1a9-f104-41b4-b5d3-eb21e6ff4c04" />
+      <img width="500" height="300" alt="box" src="https://github.com/user-attachments/assets/99db0d7d-99b5-4e5d-995f-98387be5b92a" />
     </td>
     <td align="right">
-      <img width="500" height="300" alt="bar" src="https://github.com/user-attachments/assets/69d784d7-d27c-470c-adb1-954d3df2673c" />
+      <img width="500" height="300" alt="bar" src="https://github.com/user-attachments/assets/d9c354df-6156-4ba3-95cc-5e7183dbda9d" />
     </td>
   </tr>
 </table>
@@ -60,10 +60,10 @@ enhances transparency for both banks and customers.
 <table>
   <tr>
     <td align="left">
-      <img width="500" height="300" alt="reg" src="https://github.com/user-attachments/assets/e2eb8113-2dd3-4602-914a-ec50fbdef5da" />
+      <img width="500" height="300" alt="barcr" src="https://github.com/user-attachments/assets/25b746d0-753d-470a-9942-ce4272d930a7" />
     </td>
     <td align="right">
-      <img width="500" height="300" alt="vio" src="https://github.com/user-attachments/assets/583cf437-a709-4c05-9e46-92a344e3fdee" />
+      <img width="500" height="300" alt="vio" src="https://github.com/user-attachments/assets/8979b5cd-0ad2-40b0-ac4c-7ca9f27a3fa3" />
    </td>
   </tr>
 </table>
@@ -71,7 +71,7 @@ enhances transparency for both banks and customers.
 
 ### **CORRELATION MATRIX**
 <p align="center">
-  <img width="600" height="600" alt="corr" src="https://github.com/user-attachments/assets/897b788e-e843-4e8d-946f-ec5ce2142fd5" />
+  <img width="700" height="700" alt="corr" src="https://github.com/user-attachments/assets/897b788e-e843-4e8d-946f-ec5ce2142fd5" />
 </p>
 
 ### **EVALUATION MATRIX**
